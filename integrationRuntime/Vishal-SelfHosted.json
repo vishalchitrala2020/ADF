@@ -1,0 +1,7 @@
+{
+	"name": "Vishal-SelfHosted",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "integration run time to connect to local environment. "
+	}
+}

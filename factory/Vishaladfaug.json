@@ -1,0 +1,9 @@
+{
+	"name": "Vishaladfaug",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "88e86aca-c9f6-459a-bbac-b286fcba28d8",
+		"tenantId": "c90af34a-8dde-4d09-a42d-e55393b376d0"
+	}
+}
